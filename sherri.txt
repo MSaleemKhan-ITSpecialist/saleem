@@ -1,0 +1,19 @@
+2 git init                                                                                                           
+   3 git status                                                                                                         
+   4 git add .                                                                                                          
+   5 git status                                                                                                         
+   6 git commit -m saleem.py                                                                                            
+   7 rm saleem.py                                                                                                       
+   8 git restore saleem.py                                                                                              
+   9 git status                                                                                                         
+  11 git status                                                                                                         
+  13 git remote -v                                                                                                      
+  15 git remote -v                                                                                                      
+  17 git remote -v                                                                                                      
+  18 git push                                                                                                           
+  19 git push origin master                                                                                             
+  20 git log --oneline                                                                                                  
+  21 git brach sherri                                                                                                   
+  22 git branch sherri                                                                                                  
+  23 git status                                                                                                         
+  24 git switch sherri                                                                                                  
